@@ -33,7 +33,7 @@ Design and develop a concurrent version of `Poool`, in two different versions:
 
 The concurrent programs should be designed according the principles studied during the course, promoting modularity, encapsulation as well as performance, reactivity. Further remarks:
 - for active components/thread interaction, monitors must be used, with your own implementation (no lib support)
-- the behaviour of the bot is not meant to be smart, could be any.
+- the behaviour of the bot is not meant to be smart, could be any
 - for every other aspect not specified, students are free to choose the best approach for them.
 
 Beside the source code, the assignment should contain a brief report, including:
