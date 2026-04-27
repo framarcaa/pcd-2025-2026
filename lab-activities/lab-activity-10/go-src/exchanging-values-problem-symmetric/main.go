@@ -2,7 +2,7 @@
  * 
  * Exchanging values problem (module-3.1)  
  *
- * Simmetric solution.
+ * Symmetric solution.
  * 
  */
 package main
